@@ -295,7 +295,7 @@ box-shadow: -9px 0px 17px -1px rgba(94,94,94,0.75);
     flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-	padding-left: 100px;
+	padding-left: 35px;
 }
 
 .contact-buttons button {
@@ -375,6 +375,6 @@ box-shadow: -9px 0px 17px -1px rgba(94,94,94,0.75);
 @media screen and (max-width:700px){
 	
 .kontak-wrapper .contact-buttons{
-	padding-left: 20px;
+	padding-left: 10px;
 	}
 }
